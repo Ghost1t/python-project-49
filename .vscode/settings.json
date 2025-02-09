@@ -1,3 +1,6 @@
 {
-    "application.experimental.rendererProfiling": false
+    "application.experimental.rendererProfiling": false,
+    "python.analysis.extraPaths": [
+        "./brain_games/scripts"
+    ]
 }
