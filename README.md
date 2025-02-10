@@ -11,3 +11,6 @@ https://asciinema.org/a/iWGG0zeo4itpR8Sgz0QenZS1u
 
 ### Run the game "brain-gcd":
 https://asciinema.org/a/bI7BVFC0MHydaI10WOMT4WYbt
+
+### Run the game "brain-progression":
+https://asciinema.org/a/GvhFbfP27Uo5kQtZqMvrcPHVR
