@@ -1,7 +1,7 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "This is a Linux app with games to exercise your brain."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -21,9 +21,9 @@ dev = [
 ]
 
 [project.scripts]
-brain-games = "brain_games.scripts.brain_games:main"
-brain-even = "brain_games.scripts.brain_even:main"
-brain-calc = "brain_games.scripts.brain_calc:main"
-brain-gcd = "brain_games.scripts.brain_gcd:main"
-brain-progression = "brain_games.scripts.brain_progression:main"
-brain-prime = "brain_games.scripts.brain_prime:main"
+brain-games = "brain_games.scripts.games:main"
+even = "brain_games.scripts.even:main"
+calc = "brain_games.scripts.calc:main"
+gcd = "brain_games.scripts.gcd:main"
+progression = "brain_games.scripts.progression:main"
+prime = "brain_games.scripts.prime:main"

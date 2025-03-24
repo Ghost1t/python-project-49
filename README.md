@@ -3,6 +3,9 @@
 
 <a href="https://codeclimate.com/github/Ghost1t/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/f79efb4f132c63eb5e14/maintainability" /></a>
 
+### Description 
+This is a Linux app with games to exercise your brain. The stack I used: python = 3.12, prompt = 0.4.1, ruff = 0.9.5. For installation and launch instructions, see below.
+
 ### Install and run the game "brain-even":
 https://asciinema.org/a/FtHpQE6UqrMIBRns93MFy87ME
 

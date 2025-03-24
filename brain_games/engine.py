@@ -3,8 +3,8 @@ import prompt
 
 def main(Name_of_User, list_of_questions, list_of_answers):
     i = 0
-    while i < len(list_of_questions):
-        print(f'Question: {list_of_questions[i]}')
+    for question in list_of_questions:
+        print(f'Question: {question}')
         check = prompt.string('Your answer: ')
         if (check == list_of_answers[i]):
             print('Correct!')
